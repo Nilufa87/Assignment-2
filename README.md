@@ -2,25 +2,28 @@
 
 Git Branching, Merging, and Issue Handling Assignment
 Instructions:
+
 Part 1: Initial Setup
 Fork this Repository:
 
 Clone the Repository:
 
 Clone the forked repository to your local machine.
+
 Part 2: Create a Feature Branch
 Create a New Branch:
 
 Create and switch to a new branch named feature/added-learnings.
 Create and Update a Readme:
 
-Create the learnings.md file and add a section titled "5 Things I have learned about Git and GitHub" with a brief description.
+Create the learnings.md file and add a section titled "8 Things I have learned about Git and GitHub" with a brief description.
 Commit the Changes:
 
 Add, commit, and push your changes to the remote repository.
 git add learnings.md
 git commit -m "Add Project Overview section to learnings.md"
 git push origin feature/added-learnings
+
 Part 3: Create an Issue and Add few more features
 Create an Issue:
 
@@ -37,9 +40,11 @@ Add, commit, and push your changes to the remote repository.
 git add learnings.md
 git commit -m "added 2 more features in README"
 git push origin feature/new-learnings
+
 Close the Issue:
 
 Go to GitHub and close the issue "2 more things I have learnt".
+
 Part 4: Merge Branches
 Merge the Feature Branch:
 
